@@ -1,0 +1,24 @@
+/* Hide Streamlit Branding */
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+.st-emotion-cache-16txtl3 {
+    padding: 1rem 1rem;
+}
+
+.st-emotion-cache-z5fcl4 {
+    padding: 2rem 1rem 10rem;
+}
+
+.st-emotion-cache-10oheav {
+    padding: 1rem 1rem;
+}

@@ -1,0 +1,6 @@
+numpy
+streamlit
+google-generativeai
+hydralit-components
+streamlit_option_menu
+streamlit_lottie
