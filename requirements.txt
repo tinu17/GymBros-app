@@ -1,6 +1,8 @@
-numpy
-streamlit
-google-generativeai
-hydralit-components
-streamlit_option_menu
-streamlit_lottie
+numpy>=1.21.0
+pandas>=1.3.0
+streamlit>=1.28.0
+google-generativeai>=0.3.0
+hydralit-components>=1.0.10
+streamlit-option-menu>=0.3.6
+streamlit-lottie>=0.0.5
+requests>=2.25.0
